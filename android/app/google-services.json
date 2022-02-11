@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498631301882",
+    "project_id": "movity-289cd",
+    "storage_bucket": "movity-289cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498631301882:android:ab839a632a608b37da8743",
+        "android_client_info": {
+          "package_name": "com.example.movity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498631301882-alcaqp5atm7534ue4i28n6hcc7u9pb9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movity",
+            "certificate_hash": "2ce0a2eefea6be148f2b4ded89b36b3a1bd87ebf"
+          }
+        },
+        {
+          "client_id": "498631301882-v617i053n20gqugii7a4dl1qv363r3mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movity",
+            "certificate_hash": "7149fd19ff02aa6be2263d7566ea03feae15a7e7"
+          }
+        },
+        {
+          "client_id": "498631301882-h2b2pvl9mkjgfos5fi7f7ihsdnkv9tpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHTZdEMbfeJhv4g74kiQSf_PPfcO-2nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498631301882-h2b2pvl9mkjgfos5fi7f7ihsdnkv9tpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
